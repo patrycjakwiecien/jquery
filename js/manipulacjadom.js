@@ -12,7 +12,7 @@ $(function(){
 
 
 //Dodawanie HTML
-$('.paragraf-next').html('To jest <strong>paragraf</strong> z dodanym <br> HTML');
+$('.paragraf-next').html('To jest <strong>paragraf</strong> z dodanym <br> HTML'); //nie dzaiala, sprawdzic
     
  
 //dodanie tresci na koncu selektora
