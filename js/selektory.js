@@ -1,3 +1,5 @@
+ 'use strict';
+
 $(function)(){
     //pobieranie elementow po znaczniku
     var paragraphs = $('p');
